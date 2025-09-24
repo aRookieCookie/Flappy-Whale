@@ -1,6 +1,3 @@
-import time
-from tkinter.constants import CENTER
-
 import pygame
 import random
 
@@ -174,3 +171,4 @@ while Running:
 
 
 pygame.quit()
+
